@@ -1,0 +1,3 @@
+# Calidad-de-datos-Power-BI
+
+Calidad de datos con Power BI de la información que hay en el ERP SAYA...
